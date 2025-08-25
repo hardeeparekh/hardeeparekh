@@ -23,7 +23,7 @@
 - **Google Launchpad Program Mentee**, mentored by Google professionals on DSA and interview preparation.  
 - **Competitive Programming:**  
   - LeetCode: *Knight* (Max 1878, Top 4.94%)  
-  - CodeChef: ★★★★ (Max 1805) | Codeforces: *Pupil (1376)*  
+  - CodeChef: *4 Star* (Max 1805) | Codeforces: *Pupil (1376)*  
   - Solved **1000+ problems** across platforms  
 
 ---
