@@ -30,23 +30,36 @@
 
 ## 📂 Projects  
 
-### 🐼 Pandorable  
-**Tech Stack:** Python, Tkinter, OpenCV, MediaPipe, APIs  
-- Digital wellness widget with reminders, hydration prompts, screen privacy detection.  
-- Built **interactive widgets**: music player, to-do list, mini games.  
-🔗 [GitHub](https://github.com/hardeeparekh/Pandorable)  
+## 📂 Featured Projects  
 
-### 🌾 KrishiSahay  
-**Tech Stack:** Python, Flask, TensorFlow, Selenium, React Native  
-- AI app for farmers: crop disease detection, real-time text/audio chat, weather & govt schemes info.  
-- Designed **responsive UI** ensuring usability and modularity.  
+🌾 **KrishiSahay – AI Farming Assistant (Feb '25)**  
+AI-powered mobile app for farmers with crop disease detection, real-time chat, and agri-services.  
+**Tech:** Python · Flask · TensorFlow · Selenium · React Native · GenAI  
+
+- Image-based crop disease diagnosis with TensorFlow  
+- Real-time text/audio chat + location-aware services  
+- Weather updates, govt schemes, and agri-trade support  
+- Built responsive UI ensuring usability and modularity  
 🔗 [GitHub](https://github.com/shibo911/krishiSahay)  
 
-### 🎮 GameShippers  
-**Tech Stack:** Python (Pygame)  
-- Collection of 3 games: Othello, Latrunculi, Battleship.  
-- Implemented **AI bot** for single-player Othello.  
-🔗 [Gitlab](https://gitlab.com/sahayak1/gameplay)  
+🐼 **Pandorable – Digital Wellness Widget (Apr '24)**  
+Interactive desktop widget with digital health features and productivity tools.  
+**Tech:** Python · Tkinter · OpenCV · MediaPipe · CustomTkinter · APIs  
+
+- Break reminders, hydration prompts, and screen privacy detection  
+- Built widgets: lo-fi music player, to-do list, mini-games  
+- Integrated API support for flexible extensions  
+🔗 [GitHub](https://github.com/hardeeparekh/Pandorable)  
+
+🎮 **GameShippers – Gaming Suite (Jul '24)**  
+Python gaming app featuring three classic board games.  
+**Tech:** Python · Pygame  
+
+- Othello with **computer bot** + two-player mode  
+- Latrunculi & Battleship with multiple gameplay modes  
+- Designed engaging UI for smooth game experience  
+🔗 [GitLab](https://gitlab.com/sahayak1/gameplay)  
+
 
 ---
 
