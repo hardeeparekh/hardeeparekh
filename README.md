@@ -40,7 +40,6 @@ AI-powered mobile app for farmers with crop disease detection, real-time chat, a
 - Built responsive UI ensuring usability and modularity  
 🔗 [GitHub](https://github.com/shibo911/krishiSahay)  
 
----
 
 🐼 **Pandorable – Digital Wellness Widget (Apr '24)**  
 Interactive desktop widget with digital health features and privacy tools.  
@@ -51,7 +50,6 @@ Interactive desktop widget with digital health features and privacy tools.
 - **Interactive widgets** – includes a lo-fi music player, to-do list, and mini-games for user engagement  
 🔗 [GitHub](https://github.com/hardeeparekh/Pandorable)  
 
----
 
 🎮 **GameShippers – Gaming Suite (Jul '24)**  
 Python gaming app featuring three classic board games.  
