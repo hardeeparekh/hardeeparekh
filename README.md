@@ -2,7 +2,7 @@
 
 🎓B.Tech in Computer Science & Business @ **IIIT Lucknow**  
 💡 Passionate about leveraging technology for real-world impact  
-📈 Love solving DSA and participating in coding contests 
+📈 Love Problem solving and participating in coding contests 
 
 ---
 
@@ -75,12 +75,12 @@ Leadership • Teamwork • Event Management • Public Speaking • Time Manage
 
 ## 📬 Let’s Connect!  
 
-- 📧 **Email:** [parekhhardee@gmail.com](mailto:parekhhardee@gmail.com)  
-- 💼 **LinkedIn:** [hardeeparekh](https://www.linkedin.com/in/hardeeparekh)  
-- 🖥️ **GitHub:** [hardeeparekh](https://github.com/hardeeparekh)   
-- 🏆 **LeetCode:** [hardeeparekh](https://leetcode.com/u/hardeeparekh)
-- 🎯 **Codeforces:** [hardeeparekh](https://codeforces.com/profile/hardeeparekh)  
-- 🍴 **CodeChef:** [hardee25](https://www.codechef.com/users/hardee25)  
+-  **Email:** [parekhhardee@gmail.com](mailto:parekhhardee@gmail.com)  
+-  **LinkedIn:** [hardeeparekh](https://www.linkedin.com/in/hardeeparekh)  
+-  **GitHub:** [hardeeparekh](https://github.com/hardeeparekh)   
+-  **LeetCode:** [hardeeparekh](https://leetcode.com/u/hardeeparekh)
+-  **Codeforces:** [hardeeparekh](https://codeforces.com/profile/hardeeparekh)  
+-  **CodeChef:** [hardee25](https://www.codechef.com/users/hardee25)  
 
 ---
 
