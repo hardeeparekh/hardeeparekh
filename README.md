@@ -72,13 +72,4 @@ Leadership • Teamwork • Event Management • Public Speaking • Time Manage
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardeeparekh&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardeeparekh&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
-
 ✨ Thanks for visiting my profile!  
