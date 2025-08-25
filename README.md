@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Hardee Parekh  
 
-🎓 B.Tech in Computer Science & Business @ **IIIT Lucknow** 
+🎓 B.Tech in Computer Science & Business @ **IIIT Lucknow**  
 💡 Passionate about leveraging technology for real-world impact  
-📈 Love solving DSA and participating in coding contests  
-
+📈 Love solving DSA and participating in coding contests 
 ---
 
 ## 💼 Experience  
