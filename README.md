@@ -40,14 +40,18 @@ AI-powered mobile app for farmers with crop disease detection, real-time chat, a
 - Built responsive UI ensuring usability and modularity  
 🔗 [GitHub](https://github.com/shibo911/krishiSahay)  
 
-## 🐼 Pandorable – Digital Wellness Widget (Apr '24)  
-Interactive desktop widget with digital health features and privacy tools.  
-**Tech:** Python · Tkinter · OpenCV · MediaPipe · CustomTkinter · APIs 
+---
 
-- **Gaze detection** – detects if someone is **peeking at your screen** in crowded or workplace environments
-- **Wellness reminders** – timely **break notifications** and **hydration alerts** to reduce digital fatigue
-- **Interactive widgets** – includes a lo-fi music player, to-do list, and mini-games for user engagement 
+🐼 **Pandorable – Digital Wellness Widget (Apr '24)**  
+Interactive desktop widget with digital health features and privacy tools.  
+**Tech:** Python · Tkinter · OpenCV · MediaPipe · CustomTkinter · APIs  
+
+- **Gaze detection** – detects if someone is **peeking at your screen** in crowded or workplace environments  
+- **Wellness reminders** – timely **break notifications** and **hydration alerts** to reduce digital fatigue  
+- **Interactive widgets** – includes a lo-fi music player, to-do list, and mini-games for user engagement  
 🔗 [GitHub](https://github.com/hardeeparekh/Pandorable)  
+
+---
 
 🎮 **GameShippers – Gaming Suite (Jul '24)**  
 Python gaming app featuring three classic board games.  
@@ -57,7 +61,6 @@ Python gaming app featuring three classic board games.
 - Latrunculi & Battleship with multiple gameplay modes  
 - Designed engaging UI for smooth game experience  
 🔗 [GitLab](https://gitlab.com/sahayak1/gameplay)  
-
 
 ---
 
