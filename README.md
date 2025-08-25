@@ -47,7 +47,6 @@ Interactive desktop widget with digital health features and privacy tools.
 - **Gaze detection** – detects if someone is **peeking at your screen** in crowded or workplace environments
 - **Wellness reminders** – timely **break notifications** and **hydration alerts** to reduce digital fatigue
 - **Interactive widgets** – includes a lo-fi music player, to-do list, and mini-games for user engagement 
-- Integrated API support for flexible extensions  
 🔗 [GitHub](https://github.com/hardeeparekh/Pandorable)  
 
 🎮 **GameShippers – Gaming Suite (Jul '24)**  
