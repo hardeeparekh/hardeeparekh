@@ -9,7 +9,7 @@
 ## 💼 Experience  
 
 **Google – Associate Software Developer Intern (Jun–Aug 2025, Hyderabad)**  
-- Developed an RPC service using Protocol Buffers with a Java backend and a TypeScript frontend for sanctions compliance.  
+- Developed an **RPC service** using Protocol Buffers with a **Java backend** and a **TypeScript frontend** for sanctions compliance.  
 - Built **error-resilient async systems** with unit & integration testing across backend and frontend.  
 - Designed **AI-powered OSINT enrichment modules** using Gemini API, reducing manual investigation effort.  
 
