@@ -1,12 +1,9 @@
-<div align="center">
-
 # 👋 Hi, I'm Hardee Parekh  
 
 🎓 B.Tech in Computer Science & Business @ **IIIT Lucknow** (CGPA: 8.93)  
 💡 Passionate about leveraging technology for real-world impact  
 📈 Love solving DSA and participating in coding contests  
 
-</div>
 ---
 
 ## 💼 Experience  
