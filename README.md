@@ -28,8 +28,6 @@
 
 ---
 
-## 📂 Projects  
-
 ## 📂 Featured Projects  
 
 🌾 **KrishiSahay – AI Farming Assistant (Feb '25)**  
