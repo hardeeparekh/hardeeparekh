@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hardee Parekh  
 
 🎓 B.Tech in Computer Science & Business @ **IIIT Lucknow** (CGPA: 8.93)  
-💻 Software Engineer | Open Source Enthusiast | Competitive Programmer  
-🚀 Passionate about AI/ML, Systems, and Scalable Tech  
+💡 Passionate about leveraging technology for real-world impact
+📈 Love solving DSA and participating in coding contests
 
 ---
 
