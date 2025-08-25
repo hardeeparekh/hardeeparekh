@@ -9,7 +9,7 @@
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hardeeparekh-blue?logo=linkedin)](https://www.linkedin.com/in/hardeeparekh)  
 [![GitHub](https://img.shields.io/badge/GitHub-hardeeparekh-black?logo=github)](https://github.com/hardeeparekh)  
-📧 **parekhhardee@gmail.com** | 📱 **+91-9879515876**  
+📧 **parekhhardee@gmail.com** 
 
 ---
 
