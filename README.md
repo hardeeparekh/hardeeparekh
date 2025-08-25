@@ -70,9 +70,9 @@ Leadership • Teamwork • Event Management • Public Speaking • Time Manage
 
 - 📧 **Email:** [parekhhardee@gmail.com](mailto:parekhhardee@gmail.com)  
 - 💼 **LinkedIn:** [hardeeparekh](https://www.linkedin.com/in/hardeeparekh)  
-- 🖥️ **GitHub:** [hardeeparekh](https://github.com/hardeeparekh)  
+- 🖥️ **GitHub:** [hardeeparekh](https://github.com/hardeeparekh)   
+- 🏆 **LeetCode:** [hardeeparekh](https://leetcode.com/u/hardeeparekh)
 - 🎯 **Codeforces:** [hardeeparekh](https://codeforces.com/profile/hardeeparekh)  
-- 🏆 **LeetCode:** [hardeeparekh](https://leetcode.com/u/hardeeparekh)  
 - 🍴 **CodeChef:** [hardee25](https://www.codechef.com/users/hardee25)  
 
 ---
