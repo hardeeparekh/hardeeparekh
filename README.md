@@ -41,7 +41,7 @@ AI-powered mobile app for farmers with crop disease detection, real-time chat, a
 🔗 [GitHub](https://github.com/shibo911/krishiSahay)  
 
 🐼 **Pandorable – Digital Wellness Widget (Apr '24)**  
-Interactive desktop widget with digital health features and privacy tools
+Interactive desktop widget with digital health features and privacy tools.
 **Tech:** Python · Tkinter · OpenCV · MediaPipe · CustomTkinter · APIs  
 
 - **Gaze detection** – detects if someone is **peeking at your screen** in crowded or workplace environments
