@@ -30,23 +30,23 @@
 
 ## 📂 Projects  
 
+### 🐼 Pandorable  
+**Tech Stack:** Python, Tkinter, OpenCV, MediaPipe, APIs  
+- Digital wellness widget with reminders, hydration prompts, screen privacy detection.  
+- Built **interactive widgets**: music player, to-do list, mini games.  
+🔗 [GitHub](https://github.com/hardeeparekh/Pandorable)  
+
 ### 🌾 KrishiSahay  
 **Tech Stack:** Python, Flask, TensorFlow, Selenium, React Native  
 - AI app for farmers: crop disease detection, real-time text/audio chat, weather & govt schemes info.  
 - Designed **responsive UI** ensuring usability and modularity.  
-🔗 [GitHub](https://github.com/hardeeparekh)  
+🔗 [GitHub](https://github.com/shibo911/krishiSahay)  
 
 ### 🎮 GameShippers  
 **Tech Stack:** Python (Pygame)  
 - Collection of 3 games: Othello, Latrunculi, Battleship.  
 - Implemented **AI bot** for single-player Othello.  
-🔗 [GitHub](https://github.com/hardeeparekh)  
-
-### 🐼 Pandorable  
-**Tech Stack:** Python, Tkinter, OpenCV, MediaPipe, APIs  
-- Digital wellness widget with reminders, hydration prompts, screen privacy detection.  
-- Built **interactive widgets**: music player, to-do list, mini games.  
-🔗 [GitHub](https://github.com/hardeeparekh)  
+🔗 [GitHub](https://gitlab.com/sahayak1/gameplay)  
 
 ---
 
