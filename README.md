@@ -46,7 +46,7 @@
 **Tech Stack:** Python (Pygame)  
 - Collection of 3 games: Othello, Latrunculi, Battleship.  
 - Implemented **AI bot** for single-player Othello.  
-🔗 [GitHub](https://gitlab.com/sahayak1/gameplay)  
+🔗 [Gitlab](https://gitlab.com/sahayak1/gameplay)  
 
 ---
 
