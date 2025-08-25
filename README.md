@@ -16,12 +16,12 @@
 ---
 
 ## 🏆 Achievements  
-- 🎖️ **Google Talentsprint Women Engineers** (Top 200 / 30,000)  
-- 🌏 **McKinsey Next Generation Women Leaders – Asia Pacific (2025)**  
-- 📚 **Reliance Foundation Scholar** (Top 8.6% nationwide)  
-- 🥇 **2× Finalist – Hack-O-Fiesta (2024, 2025)** with *KrishiSahay* & *Pandorable*  
-- 🚀 **Google Launchpad Program** mentee  
-- ⚡ **Competitive Programming:**  
+-  **Google Talentsprint Women Engineers** (Top 200 / 30,000)  
+-  **McKinsey Next Generation Women Leaders – Asia Pacific (2025)**  
+-  **Reliance Foundation Scholar** (Top 8.6% nationwide)  
+-  **2× Finalist – Hack-O-Fiesta (2024, 2025)** with *KrishiSahay* & *Pandorable*  
+-  **Google Launchpad Program** mentee  
+-  **Competitive Programming:**  
   - LeetCode: *Knight* (Max 1878, Top 4.99%)  
   - CodeChef: ★★★★ (Max 1805) | Codeforces: *Pupil (1376)*  
   - Solved **1000+ problems** across platforms  
