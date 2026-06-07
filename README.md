@@ -28,35 +28,6 @@
   
 ---
 
-## 📂 Featured Projects  
-
-### 🌾 [KrishiSahay – AI Farming Assistant (Feb '25)](https://github.com/shibo911/krishiSahay)  
-AI-powered mobile app for farmers with crop disease detection, real-time chat, and agri-services.  
-**Tech:** Python · Flask · TensorFlow · Selenium · React Native · GenAI  
-
-- Image-based crop disease diagnosis with TensorFlow  
-- Real-time text/audio chat + location-aware services  
-- Weather updates, govt schemes, and agri-trade support  
-- Built responsive UI ensuring usability and modularity  
-
-### 🐼 [Pandorable – Digital Wellness Widget (Apr '24)](https://github.com/hardeeparekh/Pandorable)  
-Interactive desktop widget with digital health features and privacy tools.  
-**Tech:** Python · Tkinter · OpenCV · MediaPipe · CustomTkinter · APIs  
-
-- **Gaze detection** – detects if someone is **peeking at your screen** in crowded or workplace environments  
-- **Wellness reminders** – timely **break notifications** and **hydration alerts** to reduce digital fatigue  
-- **Interactive widgets** – includes a lo-fi music player, to-do list, and mini-games for user engagement  
-
-### 🎮 [GameShippers – Gaming Suite (Jul '24)](https://gitlab.com/sahayak1/gameplay)  
-Python gaming app featuring three classic board games.  
-**Tech:** Python · Pygame  
-
-- Othello with **computer bot** + two-player mode  
-- Latrunculi & Battleship with multiple gameplay modes  
-- Designed engaging UI for smooth game experience  
-
----
-
 ## ⚙️ Skills  
 
 **Languages & Frameworks:**  
